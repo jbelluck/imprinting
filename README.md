@@ -1,7 +1,7 @@
 # imprinting
 
 This directory contains all of my data and scripts from my iDMR detection and classification project from summer 2024.
-If you have any questions, please reach out to me at jillian_belluck@brown.edu.
+If you have any questions, please reach out to me at jbelluck@gmail.com.
 Updated August 16, 2024
 
 Directories:
